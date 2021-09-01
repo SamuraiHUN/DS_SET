@@ -1,0 +1,1 @@
+Use you dragon_soul_table.txt from serverside
